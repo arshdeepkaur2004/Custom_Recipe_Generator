@@ -1,2 +1,2 @@
 # Custom_Recipe_Generator
-This is a Custom Recipe Generator which would recommend you recipe if you input the inredients 
+This is the layout of the webpage of custom recipe generator
